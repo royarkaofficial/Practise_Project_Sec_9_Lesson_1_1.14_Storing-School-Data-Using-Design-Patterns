@@ -1,0 +1,1 @@
+This is an Practise Project Section 9 Lesson 1 1.14 to Create an OOP Based System for Storing School Data Using Design Patterns.
